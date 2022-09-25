@@ -8,4 +8,7 @@
     #x=num3 + take_numbers(num1,num2)
     #return x
 print("hi tame")
+print("hello everyone")
+print(1+1)
+
 
